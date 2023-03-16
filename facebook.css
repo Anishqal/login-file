@@ -1,0 +1,74 @@
+.container{
+   /* border: 2px solid; */
+   width: 100%;
+   height: 700px; 
+}
+ div .form{
+    /* border: 2px solid; */
+    width: 49%;
+    height: 500px;
+    float: left;
+    /* color: blue; */
+}
+body{
+    background-color: whitesmoke;
+}
+.form2{
+    /* border: 2px solid; */
+    /* margin-top: 180px; */
+    width: 450px;
+    margin: 180px auto;
+    text-align: center;
+    height: 400px;
+    padding: 15px;
+     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+     border-radius: 10px;
+     background-color: white;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    width: 90%;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+hr{
+    margin: 20px;
+}
+button{
+    border-radius: 5px;
+    width: 50%;
+    height: 50px;
+    font-size: 20px;
+    background-color: rgb(2, 187, 2);
+    color: white;
+    font-size: 20px;
+}
+.anish{
+    font-size: 40px;
+    width: 600px;
+    margin-left: 500px;
+    /* margin-top: 350px; */
+    
+}
+h1{
+    font-size: 80px;
+    margin: auto;
+    margin-left: 500px;
+    margin-top: 300px;
+    color: blue;
+    
+}
+.login{
+    background-color: #1877f2;
+    color: white;
+    height: 50px;
+    font-size: 20px;
+    
+}
+a{
+    font-size: 20px;
+    
+}
